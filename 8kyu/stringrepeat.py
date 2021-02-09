@@ -11,6 +11,7 @@ def repeat_str(repeat, string):
 
 
 #Method Two:
-
+'''
 def repeat_str(repeat, string):
     return string*repeat
+'''
